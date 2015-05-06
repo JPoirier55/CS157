@@ -1,0 +1,7 @@
+K   Kitchen    --D-   Vegetarian food only!
+D   Den        L--K   Dress code strictly enforced.
+L   Library    PDH-   Nothing but My Little Pony fan fiction.
+P   Pit        ----   There is NO escape!
+H   Hallway    --BL   Passage from one room to another--nothing more.
+B   Bedroom    ---H   Bedroom
+G   GradSchool GGGG   Graduate school!
